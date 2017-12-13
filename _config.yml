@@ -17,8 +17,8 @@ title: I'm Matt Miller.
 email: matthew.josiah.miller@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a classically trained rhetorician working in marketing and teaching at night. I write about liturgy, media, and place.
-baseurl: "matt-miller.org/" # the subpath of your site, e.g. /blog
-url: "matt-miller.org/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  matthewjmiller
 
 # Build settings
